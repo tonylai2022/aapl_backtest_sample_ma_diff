@@ -28,7 +28,8 @@ We analyze various performance metrics to assess the effectiveness of the strate
 
 ## Step 7 - Optimize the strategy
 
-We explore different variations of the strategy by adjusting the parameters, such as moving average period lengths and thresholds. Through iterative testing and optimization, we aim to improve the strategy's performance and identify the best parameter values for maximizing returns.
+We explore different variations of the strategy by adjusting the parameters, such as moving average period lengths and thresholds. Through iterative testing and optimization, we aim to improve the strategy's performance and identify the best parameter values for maximizing returns. In this example, using 4% above 25 MA diff as a signal can achieve 
+a higher Sharpe ratio and a higher Calmar ratio then buy and hold.
 
 <img src="./images/sorted_opt_df.png" style="border: 1px solid black; width: 300px">
 
